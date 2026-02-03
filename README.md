@@ -201,5 +201,4 @@ curl "http://localhost:5000/api/filter?start_date=2026-02-01&end_date=2026-02-28
 - Mobile app
 - Docker containerization
 
-## License
-MIT License
+
